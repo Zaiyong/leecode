@@ -1,1 +1,1 @@
-# leecod
+# leecode
